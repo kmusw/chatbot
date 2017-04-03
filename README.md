@@ -6,7 +6,7 @@
 > This project shows the chatbots for Q&A and notification of assignment in Kookmin Unviersity Software Education.
 > These Chatbots are available on Slack and KakaoTalk Messenger.
 
-#개발진
+# 개발진
 
 국민대학교 소프트웨어학과 17학번 김도현 [@nerogit](http://github.com/nerogit)
 
